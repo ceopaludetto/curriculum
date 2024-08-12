@@ -1,0 +1,101 @@
+{
+	"common": {
+		"lastUpdate": "Ultima atualização",
+		"date": "[day]/[month]/[year]"
+	},
+	"links": {
+		"linkedin": "https://www.linkedin.com/in/ceopaludetto",
+		"github": "https://github.com/ceopaludetto",
+		"curriculum": "https://www.github.com/ceopaludetto/curriculum"
+	},
+	"name": "Carlos Eduardo de Oliveira Paludetto",
+	"position": "Desenvolvedor de Software Sênior",
+	"city": "São Paulo, Brasil",
+	"email": "ceo.paludetto@gmail.com",
+	"phone": "+55 (11) 95215-1529",
+	"summary": {
+		"title": "Resumo",
+		"content": "Sou um Desenvolvedor de Software Sênior com mais de 5 anos de experiência em desenvolvimento de software. Tenho uma sólida formação em desenvolvimento de software, com foco em aplicações web, e uma paixão por aprender novas tecnologias. Tenho experiência em todas as etapas do ciclo de vida de desenvolvimento de software, desde a coleta de requisitos até a implantação e manutenção. Gosto de trabalhar em equipe e tenho excelentes habilidades de comunicação e um histórico comprovado de entrega de software de alta qualidade dentro do prazo e do orçamento."
+	},
+	"work": {
+		"title": "Experiência Profissional",
+		"content": [
+			{
+				"company": "PicPay",
+				"position": "Desenvolvedor Backend Sênior",
+				"start": "Mar/2023",
+				"end": "Presente",
+				"notes": [
+					"Desenvolvi e mantive APIs usando Spring, Kotlin e Reactor",
+					"Criei e mantive cerca de 10 bibliotecas para uso interno (em um projeto gradle multi-módulo)",
+					"Trabalhei em estreita colaboração com gerentes de produto e designers para implementar novos recursos",
+					"Participei de revisões de código e forneci feedback para outros membros da equipe",
+					"Ajudei a definir as melhores práticas e padrões de codificação para a equipe"
+				]
+			},
+			{
+				"company": "Marvin",
+				"position": "Desenvolvedor Frontend Sênior",
+				"start": "Set/2022",
+				"end": "Mar/2023",
+				"notes": [
+					"Desenvolvi e mantive aplicações web usando Node.js, TypeScript e ReactJS",
+					"Desenvolvi e mantive um sistema de design (+ biblioteca de UI) para a empresa",
+					"Trabalhei em estreita colaboração com gerentes de produto e designers para implementar novos recursos",
+					"Participei de revisões de código e forneci feedback para outros membros da equipe",
+					"Responsável pela arquitetura frontend da empresa"
+				]
+			},
+			{
+				"company": "WA Project (software house)",
+				"position": "Desenvolvedor Full Stack",
+				"start": "Set/2020",
+				"end": "Set/2022",
+				"notes": [
+					"Desenvolvi e mantive aplicações web usando Node.js, TypeScript, ReactJS e NextJS",
+					"Desenvolvi e mantive APIs usando Node.js, TypeScript, Express e PostgreSQL",
+					"Trabalhei em estreita colaboração com gerentes de produto e designers para implementar novos recursos",
+					"Alocado diretamente para o cliente e trabalhei em 6 projetos diferentes"
+				]
+			},
+			{
+				"company": "Seno (software house)",
+				"position": "Desenvolvedor Full Stack Júnior",
+				"start": "Out/2019",
+				"end": "Set/2020",
+				"notes": [
+					"Desenvolvi e mantive aplicações web usando Node.js, TypeScript e ReactJS",
+					"Desenvolvi e mantive websites em wordpress",
+					"Trabalhei em 2 projetos diferentes"
+				]
+			}
+		]
+	},
+	"education": {
+		"title": "Educação",
+		"content": [
+			{
+				"course": "Bacharelado em Ciência da Computação",
+				"institution": "Universidade Federal do ABC",
+				"start": "2019",
+				"end": "2025",
+				"notes": []
+			},
+			{
+				"course": "Diploma de Ensino Médio",
+				"institution": "ETEC Horácio Augusto da Silveira",
+				"start": "2016",
+				"end": "2018",
+				"notes": ["Curso técnico de TI integrado"]
+			}
+		]
+	},
+	"languages": {
+		"title": "Proficiência em Idiomas",
+		"content": [
+			{ "name": "Inglês", "level": "Avançado" },
+			{ "name": "Português", "level": "Nativo" }
+		]
+	},
+	"footer": "Esse currículo foi feito com Typst, clique aqui para ver o código fonte."
+}

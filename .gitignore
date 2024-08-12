@@ -1,0 +1,5 @@
+# Typst generated files
+*.pdf
+
+# macOS
+.DS_Store

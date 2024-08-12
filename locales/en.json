@@ -1,0 +1,101 @@
+{
+	"common": {
+		"lastUpdate": "Last update",
+		"date": "[year]/[month]/[day]"
+	},
+	"links": {
+		"linkedin": "https://www.linkedin.com/in/ceopaludetto",
+		"github": "https://github.com/ceopaludetto",
+		"curriculum": "https://www.github.com/ceopaludetto/curriculum"
+	},
+	"name": "Carlos Eduardo de Oliveira Paludetto",
+	"position": "Senior Software Developer",
+	"city": "Sao Paulo, Brazil",
+	"email": "ceo.paludetto@gmail.com",
+	"phone": "+55 (11) 95215-1529",
+	"summary": {
+		"title": "Summary",
+		"content": "I am a Senior Software Developer with over 5 years of experience in software development. I have a strong background in software development, with a focus on web applications, and a passion for learning new technologies. I have experience in all stages of the software development lifecycle, from requirements gathering to deployment and maintenance. I am a team player with excellent communication skills and a proven track record of delivering high-quality software on time and on budget."
+	},
+	"work": {
+		"title": "Work Experience",
+		"content": [
+			{
+				"company": "PicPay",
+				"position": "Senior Backend Developer",
+				"start": "Mar/2023",
+				"end": "Present",
+				"notes": [
+					"Developed and maintained APIs using Spring, Kotlin, and Reactor",
+					"Created and maintained about 10 libraries for internal use (in a gradle multi-module project)",
+					"Worked closely with product managers and designers to implement new features",
+					"Participated in code reviews and provided feedback to other team members",
+					"Helped to define best practices and coding standards for the team"
+				]
+			},
+			{
+				"company": "Marvin",
+				"position": "Senior Frontend Developer",
+				"start": "Sep/2022",
+				"end": "Mar/2023",
+				"notes": [
+					"Developed and maintained web applications using Node.js, TypeScript and ReactJS",
+					"Developed and maintained a design system (+ UI library) for the company",
+					"Worked closely with product managers and designers to implement new features",
+					"Participated in code reviews and provided feedback to other team members",
+					"Responsible for the frontend architecture of the company"
+				]
+			},
+			{
+				"company": "WA Project (software house)",
+				"position": "Full Stack Developer",
+				"start": "Sep/2020",
+				"end": "Sep/2022",
+				"notes": [
+					"Developed and maintained web applications using Node.js, TypeScript, ReactJS and NextJS",
+					"Developed and maintained APIs using Node.js, TypeScript, Express and PostgreSQL",
+					"Worked closely with product managers and designers to implement new features",
+					"Allocated directly to the client and worked on 6 different projects"
+				]
+			},
+			{
+				"company": "Seno (software house)",
+				"position": "Junior Full Stack Developer",
+				"start": "Oct/2019",
+				"end": "Sep/2020",
+				"notes": [
+					"Developed and maintained web applications using Node.js, TypeScript and ReactJS",
+					"Developed and maintained wordpress websites",
+					"Worked on 2 different projects"
+				]
+			}
+		]
+	},
+	"education": {
+		"title": "Education",
+		"content": [
+			{
+				"course": "Bachelor's degree in Computer Science",
+				"institution": "Federal University of ABC",
+				"start": "2019",
+				"end": "2025",
+				"notes": []
+			},
+			{
+				"course": "High School Diploma",
+				"institution": "ETEC Horácio Augusto da Silveira",
+				"start": "2016",
+				"end": "2018",
+				"notes": ["IT course integrated"]
+			}
+		]
+	},
+	"languages": {
+		"title": "Language Proficiency",
+		"content": [
+			{ "name": "English", "level": "Advanced" },
+			{ "name": "Portuguese", "level": "Native" }
+		]
+	},
+	"footer": "This resume was created with Typst, click here to see the source code."
+}
