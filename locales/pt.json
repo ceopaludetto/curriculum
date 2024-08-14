@@ -21,10 +21,24 @@
 		"title": "Experiência Profissional",
 		"content": [
 			{
+				"company": "Mercado de Recebíveis",
+				"position": "Desenvolvedor Frontend Sênior",
+				"start": "Fev/2024",
+				"end": "Presente",
+				"notes": [
+					"Desenvolvi e mantive uma aplicação React Native",
+					"Desenvolvi e mantive aplicações React.JS em um projeto monorepo",
+					"Criei e mantive um sistema de design (+ biblioteca de UI) para a empresa",
+					"Trabalhei em estreita colaboração com gerentes de produto e designers para implementar novos recursos",
+					"Participei de revisões de código e forneci feedback para outros membros da equipe",
+					"Ajudei a definir as melhores práticas e padrões de codificação para a equipe"
+				]
+			},
+			{
 				"company": "PicPay",
 				"position": "Desenvolvedor Backend Sênior",
 				"start": "Mar/2023",
-				"end": "Presente",
+				"end": "Fev/2024",
 				"notes": [
 					"Desenvolvi e mantive APIs usando Spring, Kotlin e Reactor",
 					"Criei e mantive cerca de 10 bibliotecas para uso interno (em um projeto gradle multi-módulo)",

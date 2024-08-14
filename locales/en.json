@@ -21,10 +21,24 @@
 		"title": "Work Experience",
 		"content": [
 			{
+				"company": "Mercado de Recebíveis",
+				"position": "Senior Frontend Developer",
+				"start": "Feb/2024",
+				"end": "Present",
+				"notes": [
+					"Developed and maintained a React Native application",
+					"Developed and maintained React.JS applications in a monorepo project",
+					"Created and maintained a design system (+ UI library) for the company",
+					"Worked closely with product managers and designers to implement new features",
+					"Participated in code reviews and provided feedback to other team members",
+					"Helped to define best practices and coding standards for the team"
+				]
+			},
+			{
 				"company": "PicPay",
 				"position": "Senior Backend Developer",
 				"start": "Mar/2023",
-				"end": "Present",
+				"end": "Feb/2024",
 				"notes": [
 					"Developed and maintained APIs using Spring, Kotlin, and Reactor",
 					"Created and maintained about 10 libraries for internal use (in a gradle multi-module project)",
