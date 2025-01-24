@@ -21,10 +21,24 @@
 		"title": "Work Experience",
 		"content": [
 			{
+				"company": "Banco Bradesco S.A.",
+				"position": "Senior Fullstack Developer",
+				"start": "Sep/2024",
+				"end": "Present",
+				"notes": [
+					"Developed and maintained a micro frontend solution with Angular (framework)",
+					"Developed and maintained Angular applications",
+					"Created and maintained an Angular utilitary library for the company",
+					"Worked closely with product managers and designers to implement new features",
+					"Participated in code reviews and provided feedback to other team members",
+					"Helped to define best practices and coding standards for the team"
+				]
+			},
+			{
 				"company": "Mercado de Recebíveis",
 				"position": "Senior Frontend Developer",
 				"start": "Feb/2024",
-				"end": "Present",
+				"end": "Sep/2024",
 				"notes": [
 					"Developed and maintained a React Native application",
 					"Developed and maintained React.JS applications in a monorepo project",

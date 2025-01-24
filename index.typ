@@ -24,7 +24,7 @@
 #set align(center)
 
 TypeScript #sym.dot.op JavaScript #sym.dot.op Node.js #sym.dot.op React #sym.dot.op NextJS #sym.dot.op Remix #sym.dot.op Redux #sym.dot.op HTML #sym.dot.op CSS #sym.dot.op Kotlin #sym.dot.op Java #sym.dot.op Spring #sym.dot.op Git #sym.dot.op PostgreSQL
-MongoDB #sym.dot.op Docker #sym.dot.op AWS #sym.dot.op Cloudflare Workers #sym.dot.op Fly #sym.dot.op Agile #sym.dot.op Scrum #sym.dot.op Kanban #sym.dot.op Code Review #sym.dot.op TDD #sym.dot.op BDD #sym.dot.op CI/CD #sym.dot.op REST 
+MongoDB #sym.dot.op Docker #sym.dot.op AWS #sym.dot.op Cloudflare Workers #sym.dot.op Fly.io #sym.dot.op Agile #sym.dot.op Scrum #sym.dot.op Kanban #sym.dot.op Code Review #sym.dot.op TDD #sym.dot.op BDD #sym.dot.op CI/CD #sym.dot.op REST 
 GraphQL #sym.dot.op Microservices #sym.dot.op Swift #sym.dot.op SwiftUI
 
 #set align(left)

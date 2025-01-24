@@ -21,10 +21,24 @@
 		"title": "Experiência Profissional",
 		"content": [
 			{
+				"company": "Banco Bradesco S.A.",
+				"position": "Desenvolvedor Fullstack Sênior",
+				"start": "Set/2024",
+				"end": "Presente",
+				"notes": [
+					"Desenvolvi e mantive uma solução de micro frontends com Angular (framework)",
+					"Desenvolvi e mantive aplicações Angular",
+					"Criei e mantive uma biblioteca de utiltários em Angular para a empresa",
+					"Trabalhei em estreita colaboração com gerentes de produto e designers para implementar novos recursos",
+					"Participei de revisões de código e forneci feedback para outros membros da equipe",
+					"Ajudei a definir as melhores práticas e padrões de codificação para a equipe"
+				]
+			},
+			{
 				"company": "Mercado de Recebíveis",
 				"position": "Desenvolvedor Frontend Sênior",
 				"start": "Fev/2024",
-				"end": "Presente",
+				"end": "Set/2024",
 				"notes": [
 					"Desenvolvi e mantive uma aplicação React Native",
 					"Desenvolvi e mantive aplicações React.JS em um projeto monorepo",
