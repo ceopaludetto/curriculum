@@ -1,4 +1,4 @@
-#let language = "pt"
+#let language = "en"
 
 #set text(font: "Roboto", lang: language)
 #set page(paper: "a4", margin: 1.5cm)
@@ -20,12 +20,6 @@
 )
 
 #line(stroke: 0.5pt + rgb("#ddd"), length: 100%)
-
-#set align(center)
-
-TypeScript #sym.dot.op JavaScript #sym.dot.op Node.js #sym.dot.op React #sym.dot.op NextJS #sym.dot.op Remix #sym.dot.op Redux #sym.dot.op HTML #sym.dot.op CSS #sym.dot.op Kotlin #sym.dot.op Java #sym.dot.op Spring #sym.dot.op Git #sym.dot.op PostgreSQL
-MongoDB #sym.dot.op Docker #sym.dot.op AWS #sym.dot.op Cloudflare Workers #sym.dot.op Fly.io #sym.dot.op Agile #sym.dot.op Scrum #sym.dot.op Kanban #sym.dot.op Code Review #sym.dot.op TDD #sym.dot.op BDD #sym.dot.op CI/CD #sym.dot.op REST 
-GraphQL #sym.dot.op Microservices #sym.dot.op Swift #sym.dot.op SwiftUI
 
 #set align(left)
 
@@ -62,6 +56,8 @@ GraphQL #sym.dot.op Microservices #sym.dot.op Swift #sym.dot.op SwiftUI
 #set align(center)
 #show link: underline
 
-#link(strings.links.curriculum)[#strings.footer]
+#set align(center)
 
-#strings.common.lastUpdate #sym.dash.en #datetime.today().display(strings.common.date)
+TypeScript #sym.dot.op JavaScript #sym.dot.op Node.js #sym.dot.op React #sym.dot.op NextJS #sym.dot.op Remix #sym.dot.op Redux #sym.dot.op HTML #sym.dot.op CSS #sym.dot.op Kotlin #sym.dot.op Java #sym.dot.op Spring #sym.dot.op Git #sym.dot.op PostgreSQL
+MongoDB #sym.dot.op Docker #sym.dot.op AWS #sym.dot.op Cloudflare Workers #sym.dot.op Fly.io #sym.dot.op Agile #sym.dot.op Scrum #sym.dot.op Kanban #sym.dot.op Code Review #sym.dot.op TDD #sym.dot.op BDD #sym.dot.op CI/CD #sym.dot.op REST 
+GraphQL #sym.dot.op Microservices #sym.dot.op Swift #sym.dot.op SwiftUI

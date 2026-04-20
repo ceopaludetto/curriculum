@@ -21,10 +21,25 @@
 		"title": "Work Experience",
 		"content": [
 			{
+				"company": "Intelipost",
+				"position": "Senior Fullstack Developer",
+				"start": "Oct/2025",
+				"end": "Present",
+				"notes": [
+					"Developed and maintained Vue.js applications",
+					"Developed and maintained Java Spring Boot applications",
+					"Created and maintained an Angular utilitary library for the company",
+					"Worked closely with product managers and designers to implement new features",
+					"Participated in code reviews and provided feedback to other team members",
+					"Helped to define best practices and coding standards for the team",
+					"Used AI tools and SDD for automated development"
+				]
+			},
+			{
 				"company": "Banco Bradesco S.A.",
 				"position": "Senior Fullstack Developer",
 				"start": "Sep/2024",
-				"end": "Present",
+				"end": "Oct/2025",
 				"notes": [
 					"Developed and maintained a micro frontend solution with Angular (framework)",
 					"Developed and maintained Angular applications",

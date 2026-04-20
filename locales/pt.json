@@ -21,10 +21,24 @@
 		"title": "Experiência Profissional",
 		"content": [
 			{
+				"company": "Intelipost",
+				"position": "Desenvolvedor Fullstack Sênior",
+				"start": "Out/2025",
+				"end": "Presente",
+				"notes": [
+					"Desenvolvi e mantive aplicações Vue.js",
+					"Desenvolvi e mantive aplicações Spring Boot em Java",
+					"Trabalhei em estreita colaboração com gerentes de produto e designers para implementar novos recursos",
+					"Participei de revisões de código e forneci feedback para outros membros da equipe",
+					"Ajudei a definir as melhores práticas e padrões de codificação para a equipe",
+					"Utilizei ferramentas de IA e SDD para desenvolvimento automatizado"
+				]
+			},
+			{
 				"company": "Banco Bradesco S.A.",
 				"position": "Desenvolvedor Fullstack Sênior",
 				"start": "Set/2024",
-				"end": "Presente",
+				"end": "Out/2025",
 				"notes": [
 					"Desenvolvi e mantive uma solução de micro frontends com Angular (framework)",
 					"Desenvolvi e mantive aplicações Angular",
